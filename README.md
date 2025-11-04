@@ -10,6 +10,8 @@ You can input a movie title, and the system returns a list of similar movies.
 The project uses the TMDb 5000 Movie Dataset, which contains:
 
 
+
+
 MOVIE TITLES
 
 Cast and crew information
@@ -19,6 +21,8 @@ Genres
 Keywords
 
 Descriptions
+
+
 
 
 
@@ -43,6 +47,7 @@ Jupyter Notebook
 
 
 
+
 HOW IT WORKS
 
 1.Load and clean the dataset
@@ -62,6 +67,7 @@ INSTALLATION
 1.Clone this repository:
 
 git clone https://github.com/mandarishirisha/Movie-Recommendation-System.git
+
 
 
 2.Navigate into the folder:
