@@ -9,7 +9,8 @@ You can input a movie title, and the system returns a list of similar movies.
 
 The project uses the TMDb 5000 Movie Dataset, which contains:
 
-Movie titles
+
+MOVIE TITLES
 
 Cast and crew information
 
@@ -19,9 +20,13 @@ Keywords
 
 Descriptions
 
+
+
 Dataset source: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Technologies Used
+
+
+TECHNOLOGIES USED
 
 Python 3
 
@@ -36,7 +41,9 @@ NLTK (optional) – for text preprocessing
 Jupyter Notebook
 
 
-How It Works
+
+
+HOW IT WORKS
 
 1.Load and clean the dataset
 
@@ -49,19 +56,23 @@ How It Works
 5.Build a function to fetch top N similar movies given a movie name
 
 
-Installation
+
+INSTALLATION
 
 1.Clone this repository:
 
 git clone https://github.com/mandarishirisha/Movie-Recommendation-System.git
 
+
 2.Navigate into the folder:
 
 cd Movie-Recommendation-System
 
+
 3.Install required libraries:
 
 pip install -r requirements.txt
+
 
 
 (If you don’t have a requirements.txt, you can install manually:)
